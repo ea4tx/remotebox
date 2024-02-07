@@ -1,4 +1,4 @@
-EA4TX ARS-USB
+EA4TX REMOTEBOX
 ###############
 
 .. raw:: html
