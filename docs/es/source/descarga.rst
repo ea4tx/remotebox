@@ -7,14 +7,12 @@ Puedes descargar los manuales y programas para los diferentes modelos de ARS.
    :maxdepth: 3
    :numbered:
 
-   descarga/descarga1
-   descarga/descarga2
-   descarga/descarga3
-   
+   En esta sección puedes descargar los manuales y programas para caulquiera de los modelos RemoteBox.
+    
+    Enlace de Descarga en:
 
-
-
-.. image:: images/CD-ROM-ARS.png
-    :width: 30%
-    :align: center  
-
+.. image:: ../images/descarga.png
+        :target: https://ea4tx.com/sdm_downloads/cd-rom-remotebox/
+        :alt: Descarga
+        :align: center
+     
