@@ -23,9 +23,6 @@ Contenido
 :doc:`descarga`
     Area de descarga de los manuales y software del ARS-USB.
 
-:doc:`faq`
-    Típicas preguntas y repuestas que te ayudarán a resolver dudas o problemas |faq|.
-
 :doc:`ingles`
     To access the Spanish Version, , `CLICK HERE <https://ars-usb.readthedocs.io/en/latest />`_  |enflag|
  
@@ -50,9 +47,7 @@ puedes contáctarme directamente:
    :hidden:
 
    intro 
-   descarga
-   faq         
-   glossary
+   descarga   
    ingles
    
 
