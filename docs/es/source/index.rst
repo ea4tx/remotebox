@@ -10,10 +10,9 @@ EA4TX REMOTEBOX
 
 El RemoteBox es un mando universal de control de conmutadores de antenas y compatible con la mayoría del mercado.
 
-El ARS es un interface universal, puesto que se puede adaptar a cualquier tipo de motor; el manual de usuario describe el conexionado de éste, con una larga 
-lista de motores soportados.
+Incluye una toma de Band data para la radio, de forma que puede saber la banda en la que está la radio y conmutar automaticamente la antena. 
 
-Para versión en |usflag| haz `CLICK AQUI <https://ars-usb.readthedocs.io/en/latest />`_  - For |usflag| version  `LINK HERE <https://ars-usb.readthedocs.io/en/latest />`_ 
+Para versión en |usflag| haz `CLICK AQUI <https://remotebox.readthedocs.io/en/latest />`_  - For |usflag| version  `LINK HERE <https://remotebox.readthedocs.io/en/latest />`_ 
 
 Contenido
 --------
@@ -60,6 +59,6 @@ puedes contáctarme directamente:
 .. |usflag| image:: images/flags/flag-en.png
    :height: 20
    :width: 25
-   :target: https://ars-usb.readthedocs.io/en/latest
+   :target: https://remotebox.readthedocs.io/en/latest
 
      
