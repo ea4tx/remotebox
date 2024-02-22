@@ -8,8 +8,7 @@ EA4TX REMOTEBOX
  
 ¡Bienvenido a la página de documentación del |Product|!
 
-El RemoteBox es el interface de motor universal más completo y con mejor rendimiento del mercado. Te permitirá controlar el posicionamiento de tus antenas 
-desde el ordenador por medio del puerto USB. 
+El RemoteBox es un mando universal de control de conmutadores de antenas y compatible con la mayoría del mercado.
 
 El ARS es un interface universal, puesto que se puede adaptar a cualquier tipo de motor; el manual de usuario describe el conexionado de éste, con una larga 
 lista de motores soportados.
