@@ -11,7 +11,9 @@ El RemoteBox se destaca por su versatilidad y facilidad de uso. Con su diseño c
 
 Una de las características más destacadas del RemoteBox es su capacidad para controlar conmutadores de antena de diferentes marcas y modelos de forma universal. Esto significa que los radioaficionados pueden utilizar el RemoteBox con una amplia variedad de conmutadores de antena disponibles en el mercado, lo que ofrece una flexibilidad excepcional para adaptarse a las necesidades específicas de cada estación de radio.
 
-Además de su función principal como controlador de conmutadores de antena, el RemoteBox también ofrece otras características y beneficios importantes. Entre ellas se incluye la capacidad de monitorear el estado de las antenas en tiempo real, proporcionando información crucial sobre su rendimiento y funcionamiento. 
+Además de su función principal como controlador de conmutadores de antena, el RemoteBox también incluye una función Band Data. Conectado a la radio, este sistema permite al RemoteBox detectar automáticamente la banda en la que se está operando. Esto hace que la conmutación de la antena sea automática, eliminando los errores humanos y asegurando una operación sin problemas en cualquier situación.
+
+Un aspecto destacado del RemoteBox es su capacidad de actualización sin necesidad de herramientas. A través del mismo puerto USB utilizado para la conexión, los usuarios pueden actualizar fácilmente el firmware del RemoteBox, lo que garantiza que el dispositivo siempre esté actualizado con la última versión del software disponible.
 
 En resumen, RemoteBox es mucho más que un simple controlador de conmutadores de antena: es una herramienta indispensable para cualquier radioaficionado que busca maximizar el rendimiento y la eficiencia de su estación de radio. Con su diseño innovador, su funcionalidad universal y su facilidad de uso, el RemoteBox ofrece una solución completa para la gestión de antenas, proporcionando a los usuarios un control total sobre su sistema de antenas, tanto de forma remota como local.
 
